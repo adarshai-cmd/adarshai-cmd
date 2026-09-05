@@ -1,290 +1,477 @@
-<div align="center">
+<!-- ======================= HEADER ======================= -->
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Adarsh%20Pandey&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Data%20Science%20%7C%20Research&descAlignY=58&descSize=18&animation=fadeIn)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Adarsh%20Pandey&fontSize=55&fontAlignY=35&desc=AI%20%7C%20Machine%20Learning%20%7C%20Data%20Science%20%7C%20Research&descAlignY=55&descAlign=50"/>
+</p>
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Aspiring+AI+Researcher;MCA+AI+%26+Data+Science+Student;Exploring+Machine+Learning+%26+Deep+Learning;Building+%26+Experimenting+with+AI" alt="Typing SVG" />
-</a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+AI+Researcher;MCA+AI+%26+Data+Science+Student;Exploring+Machine+Learning+%26+Deep+Learning;Building+%26+Experimenting+with+AI;Learning+Something+New+Every+Day"/>
+  </a>
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/MCA-AI%20%26%20Data%20Science-blue?style=for-the-badge&logo=graduation-cap"/>
+  <img src="https://img.shields.io/badge/BCA-Computer%20Applications-purple?style=for-the-badge&logo=google-scholar"/>
+  <img src="https://img.shields.io/badge/Location-India-orange?style=for-the-badge&logo=googlemaps"/>
+</p>
 
-[![MCA](https://img.shields.io/badge/MCA-AI%20%26%20Data%20Science-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)](https://www.geu.ac.in/)
-[![BCA](https://img.shields.io/badge/BCA-Microtech%20College-4C1D95?style=flat-square&logo=googlescholar&logoColor=white)](#)
-[![Location](https://img.shields.io/badge/Based%20in-India-7C3AED?style=flat-square&logo=googlemaps&logoColor=white)](#)
+<p align="center">
+  <a href="https://www.linkedin.com/in/adarshai-cmd">
+    <img src="https://img.shields.io/badge/LinkedIn-Adarsh%20Pandey-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:adarshpandey4810@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://github.com/adarshai-cmd">
+    <img src="https://img.shields.io/badge/GitHub-adarshai--cmd-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=7c3aed&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&color=6d28d9&label=Followers&logo=github)
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=flat-square&color=4c1d95&label=Stars&logo=github)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adarshai-cmd&label=Profile%20Views&color=blue&style=flat"/>
+  <img src="https://img.shields.io/github/followers/adarshai-cmd?label=Followers&style=flat"/>
+  <img src="https://img.shields.io/github/stars/adarshai-cmd?label=Stars&style=flat"/>
+</p>
 
 ---
 
-## 🧠 About Me
+# 👨‍💻 About Me
 
 ```yaml
-name: "Adarsh Pandey"
-role: "Aspiring AI Researcher"
-education: "MCA — Artificial Intelligence & Data Science @ Graphic Era University"
-prior_degree: "BCA @ Microtech College of Management and Technology, Muftiganj"
-focus:
-  - "Artificial Intelligence"
-  - "Machine Learning & Deep Learning"
-  - "Data Science"
-  - "Generative AI & Large Language Models"
-  - "AI Research & Experimentation"
+name: Adarsh Pandey
+
+role: Aspiring AI Researcher
+
+education:
+  current: MCA - Artificial Intelligence & Data Science
+  university: Graphic Era University
+  previous: BCA - Computer Applications
+  college: Microtech College of Management and Technology, Muftiganj
+
+interests:
+  - Artificial Intelligence
+  - Machine Learning
+  - Deep Learning
+  - Data Science
+  - Generative AI
+  - Large Language Models
+  - AI Research
+  - Problem Solving
+
+currently_learning:
+  - Python for AI/ML
+  - Data Structures & Algorithms
+  - Statistics & Probability
+  - Linear Algebra
+  - Machine Learning
+  - Deep Learning
+
+goal:
+  - Become an AI Researcher
+  - Build meaningful AI systems
+  - Develop strong mathematical and programming foundations
+  - Explore research-oriented problems in Artificial Intelligence
+
+hobbies:
+  - Reading Books
+  - Travelling
 ```
-
-I am currently pursuing my **MCA in Artificial Intelligence & Data Science at Graphic Era University**.
-
-I completed my **BCA from Microtech College of Management and Technology, Muftiganj, Uttar Pradesh**.
-
-My primary goal is to become an **AI Researcher**. I am building my foundation in computer science, mathematics, programming and machine learning while gradually moving toward deep learning, generative AI and research-oriented work.
-
-I believe in learning concepts deeply, implementing them, experimenting with them, and documenting what I learn.
-
-**🎯 Goal:** Build strong expertise in Artificial Intelligence and contribute to meaningful AI research.
 
 ---
 
-## 🛠️ Tech Stack
+# 🎓 Education
 
-### Programming
+### 🎓 MCA — Artificial Intelligence & Data Science
+**Graphic Era University**
 
-![Python](https://skillicons.dev/icons?i=python)
-![C++](https://skillicons.dev/icons?i=cpp)
-![C](https://skillicons.dev/icons?i=c)
-![SQL](https://skillicons.dev/icons?i=mysql)
+Currently building a strong foundation in:
 
-### Data Science & Machine Learning
+- Artificial Intelligence
+- Machine Learning
+- Data Science
+- Mathematics for AI
+- Programming
+- Data Structures & Algorithms
+- Research & Experimentation
 
-![NumPy](https://skillicons.dev/icons?i=numpy)
-![Pandas](https://skillicons.dev/icons?i=pandas)
-![Scikit Learn](https://skillicons.dev/icons?i=sklearn)
+### 🎓 BCA — Bachelor of Computer Applications
+**Microtech College of Management and Technology, Muftiganj**
+
+Built foundational knowledge in:
+
+- Programming
+- Database Management
+- Computer Networks
+- Operating Systems
+- Web Technologies
+- Software Development
+
+---
+
+# 🧠 Tech Stack
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,sql"/>
+</p>
+
+### AI / Data Science
+
+<p>
+<img src="https://skillicons.dev/icons?i=python"/>
+</p>
+
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- Data Analysis
+- Data Visualization
+- Machine Learning
 
 ### Deep Learning & AI
 
-![PyTorch](https://skillicons.dev/icons?i=pytorch)
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+</p>
 
-### Development & Tools
+Currently exploring:
 
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Linux](https://skillicons.dev/icons?i=linux)
-![VS Code](https://skillicons.dev/icons?i=vscode)
-![Jupyter](https://skillicons.dev/icons?i=jupyter)
+- Neural Networks
+- Deep Learning
+- Computer Vision
+- Natural Language Processing
+- Generative AI
+- LLMs
 
-> I am continuously learning and improving my skills. This stack will evolve as I gain more practical and research experience.
+### Tools & Environment
 
----
-
-## 🔬 Research Interests
-
-| Area | Focus |
-|---|---|
-| Artificial Intelligence | Intelligent systems and AI applications |
-| Machine Learning | Algorithms, models and optimization |
-| Deep Learning | Neural networks and representation learning |
-| Generative AI | Generative models and modern AI systems |
-| NLP | Language understanding and generation |
-| Computer Vision | Image understanding and visual intelligence |
-| LLMs | Large Language Models and their applications |
-| Responsible AI | Reliable, explainable and responsible AI |
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,jupyter"/>
+</p>
 
 ---
 
-## 📚 Currently Learning
+# 🔬 Research Interests
+
+| Area | Current Interest |
+|------|------------------|
+| 🤖 Artificial Intelligence | ⭐⭐⭐⭐⭐ |
+| 🧠 Machine Learning | ⭐⭐⭐⭐⭐ |
+| 🔥 Deep Learning | ⭐⭐⭐⭐ |
+| 📊 Data Science | ⭐⭐⭐⭐ |
+| 🧮 Mathematics for AI | ⭐⭐⭐⭐ |
+| 👁️ Computer Vision | ⭐⭐⭐ |
+| 💬 NLP | ⭐⭐⭐ |
+| ✨ Generative AI | ⭐⭐⭐⭐ |
+| 🧠 LLMs | ⭐⭐⭐⭐ |
+| 🔬 AI Research | ⭐⭐⭐⭐⭐ |
+
+> My long-term goal is not just to use AI models, but to understand how they work, experiment with them, and eventually contribute to AI research.
+
+---
+
+# 📚 Current Learning Roadmap
 
 ```text
-Computer Science Fundamentals
-        ↓
-Python & Data Structures
-        ↓
-Mathematics for AI
-        ↓
-Statistics & Probability
-        ↓
+Programming
+     ↓
+Python
+     ↓
+Data Structures & Algorithms
+     ↓
+Mathematics
+ ┌───┼───────────────┐
+ ↓   ↓               ↓
+Stats Probability  Linear Algebra
+ └───┼───────────────┘
+     ↓
+Data Science
+     ↓
 Machine Learning
-        ↓
+     ↓
 Deep Learning
-        ↓
-NLP / Computer Vision
-        ↓
-Generative AI & LLMs
-        ↓
-Research Methodology
-        ↓
-Research Papers & Experiments
+     ↓
+Generative AI / LLMs
+     ↓
+AI Research
 ```
 
 ---
 
-## 🚀 Projects
+# 🚀 Featured Projects
 
-### 🏛️ Banaras Darshan
+## 🏛️ Banaras Darshan
 
-A tourism-focused project designed to provide information about the cultural, historical and religious attractions of Varanasi.
+A web-based platform focused on exploring the cultural and spiritual heritage of Varanasi.
 
-**Focus:** Web Development • AI Chatbot • Multilingual Support • Maps
+### Planned / Implemented Areas
 
----
+- Temple information
+- Ghats information
+- Gallery
+- Maps integration
+- AI chatbot
+- Multi-language support
+- User authentication
+- Backend integration
+- MongoDB database
 
-### 🍱 AI-Based NGO & Restaurant Connector
-
-A project concept focused on reducing food waste by connecting restaurants with NGOs that can distribute surplus food.
-
-**Focus:** Artificial Intelligence • Data Management • Social Impact
-
----
-
-### 📈 Stock Market Predictive Analytics
-
-A predictive analytics project exploring the application of machine learning and data analysis techniques to stock-market-related data.
-
-**Focus:** Data Science • Machine Learning • Predictive Analytics
+**Focus:** Web Development + AI + Cultural Technology
 
 ---
 
-## 🔬 Research Journey
+## 🍽️ AI-Based NGO & Restaurant Connector
 
-My long-term research journey:
+A concept focused on reducing food waste by connecting restaurants with NGOs that can help distribute surplus food.
+
+### Key Idea
 
 ```text
-Learn
-  ↓
-Understand
-  ↓
-Implement
-  ↓
-Experiment
-  ↓
-Analyze
-  ↓
-Read Research Papers
-  ↓
-Reproduce Results
-  ↓
-Improve Existing Methods
-  ↓
-Conduct Independent Research
-  ↓
-Publish
+Restaurant
+    ↓
+Surplus Food
+    ↓
+AI / Matching System
+    ↓
+Nearby NGO
+    ↓
+Food Distribution
+    ↓
+Reduced Food Waste
 ```
 
-I want to move beyond simply using AI models and develop the ability to understand **how models work, why they work, where they fail, and how they can be improved**.
+**Focus:** AI + Social Impact + Data-driven Matching
 
 ---
 
-## 🎯 Goals
+## 📈 Stock Market Predictive Analytics
 
-- [ ] Strengthen Computer Science fundamentals
+A learning project focused on applying data analysis and machine learning concepts to stock-market-related data.
+
+### Areas of Exploration
+
+- Data collection
+- Data preprocessing
+- Exploratory Data Analysis
+- Feature engineering
+- Visualization
+- Machine Learning
+- Prediction experiments
+- Model evaluation
+
+**Focus:** Data Science + Machine Learning + Predictive Analytics
+
+---
+
+## 🏦 Banking Management System
+
+A programming project focused on implementing fundamental banking operations and data handling.
+
+### Concepts
+
+- Customer management
+- Account operations
+- Transactions
+- Data storage
+- File handling
+- Python programming
+- JSON-based data management
+
+**Focus:** Programming + Problem Solving + Software Development
+
+---
+
+# 🔬 My AI Research Journey
+
+I am currently at the beginning of my research journey.
+
+My approach:
+
+```text
+Learn Fundamentals
+       ↓
+Build Projects
+       ↓
+Understand the Mathematics
+       ↓
+Implement Algorithms
+       ↓
+Read Research Papers
+       ↓
+Reproduce Experiments
+       ↓
+Identify Problems
+       ↓
+Conduct Experiments
+       ↓
+Publish Research
+```
+
+### Long-Term Vision
+
+I want to progress from:
+
+**Student → Developer → ML Engineer → Researcher → AI Research Scientist**
+
+---
+
+# 🎯 Goals
+
 - [ ] Master Python
+- [ ] Master Data Structures & Algorithms
 - [ ] Strengthen Mathematics for AI
-- [ ] Master Probability & Statistics
 - [ ] Learn Machine Learning deeply
-- [ ] Learn Deep Learning with PyTorch
-- [ ] Explore NLP and Computer Vision
-- [ ] Study Generative AI and LLMs
-- [ ] Learn to read research papers
+- [ ] Learn Deep Learning
+- [ ] Study Computer Vision
+- [ ] Study NLP
+- [ ] Explore Generative AI
+- [ ] Understand LLM architectures
+- [ ] Read research papers regularly
 - [ ] Reproduce research papers
-- [ ] Conduct independent experiments
 - [ ] Build research-oriented projects
-- [ ] Learn scientific writing
-- [ ] Publish research work
+- [ ] Participate in AI/ML competitions
+- [ ] Contribute to open-source projects
+- [ ] Write technical blogs
+- [ ] Work on original AI research
+- [ ] Publish research papers
 
 ---
 
-## 📂 What You'll Find Here
+# 📊 What You'll Find Here
 
-This GitHub profile documents my journey through:
+This GitHub profile will document my journey through:
 
-- 📚 Learning notes
-- 💻 Programming practice
-- 🧮 Mathematics for AI
-- 🤖 Machine Learning projects
-- 🧠 Deep Learning experiments
-- 🔬 Research-paper implementations
-- 🧪 AI experiments
-- 🚀 Personal projects
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9" width="48%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="48%" />
-
-</div>
+```text
+💻 Programming
+🧠 Artificial Intelligence
+🤖 Machine Learning
+🔥 Deep Learning
+📊 Data Science
+🧮 Mathematics
+🔬 AI Research
+📚 Research Papers
+🚀 Projects
+🧪 Experiments
+```
 
 ---
 
-## 🏅 GitHub Trophies
+# 📈 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adarshai-cmd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshai-cmd&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=0D1117&color=A78BFA&line=7C3AED&point=ffffff&hide_border=true)
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=adarshai-cmd&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 🐍 Contribution Snake
+# 🏆 GitHub Trophies
 
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adarshai-cmd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+</p>
 
 ---
 
-## 📖 Hobbies
+# 📊 Contribution Activity
 
-- 📚 Reading Books
-- ✈️ Travelling
-
----
-
-## 📬 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-
-[![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adarshai-cmd&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
-<div align="center">
+# 🐍 Contribution Snake
 
-### *Learn • Build • Experiment • Research*
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adarshai-cmd/adarshai-cmd/output/github-contribution-grid-snake.svg"/>
+</p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=120&section=footer)
+---
 
-</div>
+# 📚 Currently Focusing On
+
+```text
+┌──────────────────────────────────────┐
+│          CURRENT FOCUS               │
+├──────────────────────────────────────┤
+│ Python                               │
+│ Data Structures & Algorithms         │
+│ Statistics & Probability             │
+│ Linear Algebra                       │
+│ Machine Learning                     │
+│ Deep Learning                        │
+│ Generative AI                        │
+│ Research Methodology                 │
+│ Research Papers                      │
+└──────────────────────────────────────┘
+```
+
+---
+
+# 🌱 Beyond Code
+
+When I'm not studying or building projects, I enjoy:
+
+📖 **Reading Books**
+
+🌍 **Travelling**
+
+💡 **Learning New Technologies**
+
+🔬 **Exploring New Ideas**
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/adarshai-cmd">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:adarshpandey4810@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/adarshai-cmd">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# 💭 Personal Philosophy
+
+> **Learn deeply. Build consistently. Experiment fearlessly. Research relentlessly.**
+
+I believe that becoming a good AI researcher requires more than knowing how to call an API or train a model.
+
+It requires:
+
+**Mathematics + Programming + Curiosity + Experimentation + Persistence**
+
+And that's the direction I'm working toward.
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
+
+<p align="center">
+  <b>⭐ Thanks for visiting my GitHub profile!</b>
+</p>
+
+<p align="center">
+  <i>Building my journey from MCA student to AI Researcher.</i>
+</p>
