@@ -391,7 +391,7 @@ This GitHub profile will document my journey through:
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adarshai-cmd/adarshai-cmd/output/github-contribution-grid-snake.svg"/>
+  <img src="snake.yml"/>
 </p>
 
 ---
